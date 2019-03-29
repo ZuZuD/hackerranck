@@ -1,4 +1,4 @@
-# Solutions for the famous www.hackerranck.com coding website. 
+# Solutions for the famous www.hackerrank.com coding website.
 
 This repositoiry aim to help you achieve your exercises in your favorite language.
 
